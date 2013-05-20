@@ -1,0 +1,246 @@
+
+<!-- saved from url=(0077)http://www.stanford.edu/~rmahony/privacy.party/volunteers/draft.overview.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title> Computer Privacy Party</title>
+</head><body>
+
+<img src="./privacy-party_files/fear.no.cookie.whiteeyes.padlocked.png"><br>
+<h1>"Fear No Cookie!"</h1>
+<h1>A Computer Privacy Party</h1>
+<h2>An Overview for Volunteers</h2>
+<b>Goal:</b>  
+ We love the creativity, invention, and sharing that people do with computers and the Internet.  We dislike bullies.  We dislike snoops.  We do not want our computers and the Internet to give strangers power to be nasty to us.  To us, privacy means choosing to whom we reveal what.  We would like people to understand new threats to their privacy and freedom.  We would also like people to learn how, by working together, we can protect one another and make the world a more beautiful place.
+<p>
+We hope that at the party we will help people understand several specific privacy threats to the material on their computers and to their communications over computer networks.  The threats people face will depend on how they use their computers, where they take them, and what their own priorities are.  We will help them choose, understand, install, configure, and use software to reduce those threats.<br>
+<b>Tentative date:</b> Sunday afternoon, February 24, 2013<br>
+<b>Location:</b> Peter Coutts Clubhouse, Peter Coutts Circle, Stanford University<br>
+<b>Teachers:</b> Gunn High School students, Stanford University professors and students, superlative hacker Daniel Bulow from Denver (http://geekywizard.com/), friends and neighbors<br>
+<b>Students:</b> Stanford University faculty and families, other friends and neighbors.  <br>
+<b>Format:</b> We will have many tables.  At each one, teachers will offer instruction one-on-one or one-on-few in a topic, such as how to make the Firefox browser more secure or when, why, and how to encrypt folders on the hard drive.<br>
+<b>Needed:</b> Volunteers to  to design good graphics for our advertising poster, flyer, and Web pages, to be teachers, to move furniture into place and move it back, to set up supplies at the beginning, to clean up at the end, to choose and run music, to put educational posters and banners on the walls and take them down, to set up and oversee food and beverages, to video the event, to photograph the event, to staff the greeting table (sign up sheet and name tags), to amble about and soothe our guests. <br>
+<b>Contact:</b> Rhona Mahony, at rmahony ATSWIRLY stanford LITTLEDOT edu.  I live at Peter Coutts Circle, Stanford.
+
+</p><h2> Topics</h2>
+You will have a complete guide to each topic before you teach it.  You will have an overview of the component's or program's relevance and step-by-step instructions on how to install and configure it.<br>
+Here are some topics that we can consider covering:
+<p>
+<b><img src="./privacy-party_files/firefox.logo.png"> SWITCH TO FIREFOX</b><br>
+Switch to Firefox. Firefox developers could protect our privacy much better than they do.  Firefox is preferable, though, to other browsers right now because many people are developing add-ons that give us more control over its behavior.  <br>
+</p><ul>
+	<li> Download the latest Firefox browser:  http://mozilla.org
+	</li><li> Import your bookmarks from your previous browser: https://support.mozilla.org/en-US/search?esab=a&amp;q=import+bookmarks
+	</li><li> Control cookies.  Show your student the text content of an actual cookie.  Explain where it comes from, what it does, and how it can benefit and harm her or him.  Go to the menu Preferences-&gt;Privacy.  Turn on "Always use private browsing mode."  When you use a site that requires a cookie, open this menu again, click on "Exceptions" and add that domain (e.g., slashdot.com) to the list of allowed cookies.  When you are done with that site, you can go back to the same menu and erase the cookie.<br>
+To learn more about cookies:  http://kb.mozillazine.org/Cookies<br>
+Firefox stores cookies in an SQLite database.<br>
+https://en.wikipedia.org/wiki/SQLite<br>
+http://sqlite.org/<br>
+	</li><li> Control Web site passwords.  Go to menu Security.  Make sure that that the Password entries are not selected.  You should type in your password each time you visit a site and not have it recorded in your browser.
+	</li><li>Stop Firefox from telling a Web page which Web page you visited beforehand.  This activity should be turned off by default.  Alas, the Firefox developers wanted to help Web site owners amass data more than they wanted to protect Firefox users.  It is easy to turn off the "referer."  Aack, yes, Firefox developers even misspelled "referrer."  In the URL bar, type "about:config."  Acknowledge the warning.  In the search bar that appears, type "referer."  Select the line "network.http.sendRefererHeader." Set the value to "0"
+	</li><li> Go to http://donttrack.us     Read it.  When you reach the bottom of the page, download these add-ons to Firefox and install them:
+		<ul>
+			<li>Adblock Plus
+			</li><li>Disconnect
+			</li><li>Ghostery
+			</li><li>HTTPS Everywhere.
+This add-on learns whether the Web page that you are about to visit offers to encrypt your traffic, to and from the page.  If the Web page does, the add-on automatically switches your request from unencrypted http to encrypted https.  Thereafter, people with access to the many computers that pass your traffic to and from your destination page cannot read what you send and receive.  HTTPS Everywhere tries to foil the man-in-the-middle attack.  Https uses Transport Layer Security (TLS) encryption.  It has vulnerabilities but is better than no encryption at all.<br>
+See: https://en.wikipedia.org/wiki/SSL_encryption <br>
+Also: https://en.wikipedia.org/wiki/Moxie_Marlinspike<br>
+			</li><li>NoScript
+	This add-on lists the Javascripts in the Web page you are looking at.  It lets you choose which, if any, Javascripts you will allow to run.  You may need to allow one or two to run for the Web page to work for you.  You will discover, though, that many Web pages have  ten or more Javascripts. The purpose of most of the Javascripts is to send your information to third parties who have paid the Web site for it.  When you leave a Web site, choose "Revoke Temporary Permissions."  Frequently, choose "Recently Blocked Sites-&gt;Reset" and erase the list of Javascripts that you blocked.<br> 
+	You may decide that NoScript is too inconvenient for you to use.  Trying it out, though, will show you how many third parties take your information without your knowledge or permission.<br>
+	When a script written in Javascript is poorly written or maliciously written, it may add or delete data on your hard drive.  It is a threat.  Javascripts do not use Java, the programming language developed by people at Sun Microsystems. <br> 
+https://en.wikipedia.org/wiki/Javascript
+			</li></ul>
+ 	</li></ul>
+<p>
+<b><img src="./privacy-party_files/bleachbit.logo.png">ERASE HIDDEN COOKIES AND SUPERCOOKIES</b><br>
+Some Web sites put cookies in places that Firefox does not know about.  Firefox cannot list or delete them.  The people who write Bleachbit work hard to find those places and write code to delete those cookies.  It works on Windows and Linux computers.<br>
+Download Bleachbit:  http://bleachbit.sourceforge.net/ <br>
+https://en.wikipedia.org/wiki/BleachBit <br>
+A review:  http://download.cnet.comBleachBit/3000-2094_4-75206153.html<br>
+We will try to find a program that erases hidden cookies on Apple computers.
+</p><p>
+
+
+<b><img src="./privacy-party_files/keys.40.jpeg">STRONG PASSWORDS</b><br>
+With today's fast and cheap GPU's (graphical processing unit), it is easy to crack an eight-digit password quickly.  Linux Journal recently ran an article on how to build a very fast password-cracking computer:<br> 
+http://www.linuxjournal.com/content/hack-and-password-cracking-gpus-part-i-setup<br>
+We should all use strong passwords.  Today, that means a 13-digit password with a mixture of lower-case, upper-case, numeric, and non-alphanumeric characters.
+People who take their security seriously carry their very long, random passwords with them on encrypted USB thumbdrives.
+The rest of us can use a strong password that is easy for us to remember.<br>
+Here is one method to create a strong yet memorable password.
+Pick a song.  Write down the initial letter of each of the first 13 or more words.
+For example, in the Clash song, "London Calling," the first 15 words are:<br>
+"London calling to the faraway towns<br>
+Now that war is declared and battle come down"<br>
+The initial letters are: L c t t f a t n t w i d a b c d<br>
+Now, apply transformations to the letters that you will remember.  You could, for example, learn the substitutions that people use in so-called "leet" spelling. Young people who are or wish that they were skillful with computers and networks substitute "4" for "A", "3" for "E", "1" for "i" and so forth. <br>
+https://en.wikipedia.org/wiki/Leet<br>
+One transformation of our song lines using some leet substitutions is:<br>
+L(77f@tntw1d@bcD<br>
+This password is strong, until manufacturers sell even faster, cheap GPU's.
+</p><p>
+
+<b><img src="./privacy-party_files/dollar.120.png">PAY IN CASH</b><br>
+You can buy tangible goods and services and digital goods and services with Visa-branded or MasterCard-branded gift cards.  The cards are expensive.  For example, you would pay $105 in cash to buy a gift card worth $100.  Stores such as Walgreens, CVS, and grocery stores sell those gift cards.  The cards have an expiration date and a security code, but no customer name.  You can ask the on-line seller to mail a tangible good to a fictitious person at your address.  This measure lets you deny both that you bought Doctor Who sheets and that Zhou Enlai lives at your house.<br>
+You can also consider getting a mail drop.  The formal name is "commercial mail receiving agency." Some companies that offer mail drops are  UPS or Mail Boxes Etc. The sender of your mail will not know your real name.   Your mail drop provider will know your real name, unless you can persuade the clerk to accept your cash payment for the account without presenting real identification.  Defeating a security system by persuading a person, rather than tricking a machine, is called social engineering.<br>
+A list of mail drops in the U.S.: http://www.maildropguide.com/<br>
+Consider buying things from many different sellers, instead of buying everything from one seller, such as Amazon.  Whoever has accumulated a lot of data about you may do things with those data--on purpose or by accident--that make you unhappy.
+</p><p>
+
+<b><img src="./privacy-party_files/open.wireless.43.png">OPEN YOUR WIRELESS NETWORK</b><br>
+If you open your home wireless network so that passers-by can use it, you will improve your privacy.  It may be counter-intutitive, but it is true. Your Internet Service Provider (ISP) can see all the sites that you visit, what you upload, and what you download.  So can people who run the eight or eleven routers between you and your destination Web site.  When strangers have permission to use your wireless router to reach the Internet, observers cannot attribute to you, personally, activity starting at your IP address.  When all of us who can open our wireless, we will grant one another more anonymity.  We will also grant one another free and ubiquitous access to the Internet. <br>
+https://www.openwireless.org/ <br>
+
+</p><p>
+<b><img src="./privacy-party_files/google.icon.jpeg">ESCAPE GOOGLE</b><br>
+</p><ul>
+	<li>Search
+	<ul>
+		<li>If your student has not yet seen http://donttrack.us/, look over and explain the page.  Instead of Google search, consider DuckDuckGo. <br>
+https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-ssl
+		</li><li>Use Googlesharing.
+https://addons.mozilla.org/en-US/firefox/addon/googlesharing/<br>
+Learn how an anonymizing proxy works and what it can and cannot do for you: <br>
+https://en.wikipedia.org/wiki/Proxy_server <br>
+How much should we trust the company that now owns Googlesharing? <br>
+http://www.businesswire.com/news/home/20120301005537/en/Abine-Acquires-Service-Google-Searches-Private <br>
+You can read a little about the author of Googlesharing, Moxie Marlinspike, <br>
+http://www.thoughtcrime.org/.  
+	</li></ul>
+	</li><li>Gmail <br>
+ When you receive email at a Google server, the Google company can read your email.  When you store it on the server, instead of erasing it, the Google company is free to hand it over to a third-party, without even telling you.  An employee of Google who is not authorized to look at it may find a way look at it.   Also, an unpleasant person can persuade a Google employee to hand over your email.  Or, an outsider can crack Google's security and look at your email.  These threats emerge whenever you receive or store material on a computer that someone else controls. <br>
+Gmail adds an additional threat.  It auctions to outside companies the power to send you an advertisement, based on the text of your email.  Google does not give the outside company your name or IP address.  It could be easy, though, for outside companies to build a more accurate picture of you and your concerns than you would like.  That is what the donttrack.us Web page explains.<br>
+Google recently changed its privacy policy.  Google used to keep separate all the shreds of things it knew about you from your use of each of its separate services.  Now, Google combines those shreds and sends the whole batch to outside companies so that they can even more accurately pinpoint to which people they want to send which advertisements.<br>
+Consider no longer using Gmail.<br>
+Learn the difference between 
+IMAP, Internet Message Access Protocol, and POP, Post Office Protocol.<br>
+http://umn.edu/adcs/guides/email/imapvspop.html <br>
+https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol<br>
+Consider encrypting your email.  You can encrypt the email that you send with Gmail.  See below.<br>
+	</li><li>Other Google Services<br>
+	How much do you want Google to know about you?  Whether or not you use Gmail, can you find alternatives to Google Docs, Google Calendar, Google+, and so on?  
+</li></ul>
+
+<b><img src="./privacy-party_files/facebook.50.png">ESCAPE FACEBOOK</b><br>
+At this event, we are not going to show people how to tinker with Facebook's so-called privacy setting.  Facebook vacuums intimacies from the people who write on its Web pages so that it can sell those intimacies to other people.  Against those paying customers of Facebook, there is no privacy.
+We can encourage people to reassess how much information they give to Facebook. 
+<p>
+
+<b><img src="./privacy-party_files/truecrypt.logo.gif">ENCRYPTING FILES, FOLDERS, AND DRIVES</b><br>
+Truecrypt is a free program that runs on Windows, Mac OS, and Linux.  It lets you encrypt a file or folder.  It also lets you create inside an encrypted folder a second, invisible folder which is encrypted with a second password.  <br>
+http://www.truecrypt.org/ <br>
+http://www.truecrypt.org/docs/tutorial  <br>
+CryptoParty Handbook, p. 284:  https://cryptoparty.org/wiki/CryptoPartyHandbook
+</p><p>
+
+<b><img src="./privacy-party_files/thunderbird.logo.43.png">PROTECT YOUR EMAIL</b><br>
+We can show students how to switch to Thunderbird.  It is a free, highly polished program that brings email to your computer from whatever email provider you use, even Gmail.  It gives the user lots of control and protection over privacy and security. <br>
+https://en.wikipedia.org/wiki/Mozilla_Thunderbird <br>
+https://www.mozilla.org/en-US/thunderbird/ <br>
+
+</p><p>
+
+<b><img src="./privacy-party_files/gpg.logo.43.png">ENCRYPTING EMAIL</b><br>
+We can now use public-key cryptography to encrypt our email.  Public-key cryptography is fascinating and complicated.  Two major suites of software that use it are Pretty Good Privacy (PGP) and its free, interoperable counterpart, Gnu Privacy Guard (GPG).  These programs encrypt files and assure the recipient that the file came from you, not somebody else. At the event, we will show people one easy way to use GPG.<br>
+https://en.wikipedia.org/wiki/Pretty_Good_Privacy  <br>
+See: https://en.wikipedia.org/wiki/GNU_Privacy_Guard<br>
+http://www.gnupg.org/ <br>
+CryptoParty Handbood section, p. 128: https://cryptoparty.org/wiki/CryptoPartyHandbook <br>
+The Thunderbird email program works smoothly with GPG, through a free plug-in called Enigmail. <br>
+http://www.enigmail.net/home/index.php <br>
+If people create key pairs at the party, we may give them a chance to have their keys signed at the party by more experienced GPG users who know them  so that the newcomers can enter the web of trust. <br>
+http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html
+</p><p>
+
+
+<b><img src="./privacy-party_files/tor.onion.38.png">TOR, THE ONION ROUTER</b><br>
+Tor is a special Web browser that prevents your destination Web site from knowing where in the world you are and who you are.  It anonymizes you by hiding your IP address.  It sends your traffic through three or more volunteers' computers on the way to and from your destination Web page.  While travelling between the volunteers' computers, your traffic is encrypted.  Volunteers are donating bandwidth to Tor on about 4000 computers around the world. The U.S. Navy invented Tor.  Now, the developers get foundation funding and contributions from people like us.
+You need to understand what Tor cannot do for you in order to use it safely.  It is very valuable.
+Our goal will be to help interested students understand, download, install, configure, and use the Tor browser, which is the client program.  We should consider some physical models to help students understand how the layered encryption and forwarding work. <br>
+https://www.torproject.org <br>
+http://en.wikipedia.org/wiki/Tor_%28anonymity_network%29 <br>
+https://www.eff.org/torchallenge/what-is-tor/ <br>
+Numbers describing activity on the Tor network: <br>
+https://metrics.torproject.org/ <br>
+Anyone who wants to donate bandwidth to the Tor network can do so most easily here: <br>
+https://cloud.torproject.org/
+https://www.torproject.org/getinvolved/relays.html.en <br>
+
+</p><p>
+<b><img src="./privacy-party_files/tails.43.png">TAILS, COMPUTER ON A STICK</b><br>
+Tails is a full operating system that fits on a USB stick.  It's goal is to protect your privacy and your anonymity. It forces all your Internet connections through the Tor network.  It leaves no trace on the computer you have plugged the USB stick into. It encrypts your email, files, and instant messages.<br>
+https://tails.boum.org/ <br>
+
+</p><h2>Demonstrations</h2>
+<ul>
+	<li><img src="./privacy-party_files/johntheripper.icon.60.png">Password Cracking <br>
+One of us can run a free and widely available password cracking program, such as John the Ripper.  Seeing how fast the program cracks a password will help our student understand why long, difficult passwords are valuable.<br>
+http://www.openwall.com/john/
+	</li><li><img src="./privacy-party_files/wireshark.logo.60.png">Wifi Sniffing <br>
+One of us can run Wireshark.  Wireshark can intercept data being sent from a person in the Clubhouse to the router that we are using.  It will help our students understand why it is valuable to encrypt their communications.  Https and gpg thwart the eavesdropping possible with Wireshark.<br>
+https://www.wireshark.org/ <br>
+	</li><li><img src="./privacy-party_files/tux.60.png">Reading the Hard Drive without the Password<br>
+One of us can demonstrate how to use a Linux live system on a USB memory stick or DVD to boot a stranger's computer, bypass the computer's demand for a password, and read everything on the hard drive.  The attacker cannot read the parts of the hard drive that are encrypted.  This demonstration will help our students understand the value of encrypting files, folders, or their whole hard drive.
+	</li><li><img src="./privacy-party_files/plush.penguin.60.png">Try Linux <br>
+Linux is an operating system that comes with a full suite of programs.  The price is zero.  You may use it like a Macintosh computer, by merely clicking icons on a beautiful desktop.  You may also dig deeply, look at, and rewrite the code of any program on the computer.    Linux gives you control over every aspect of the system.  You can make your computer and network more secure using it.  We will have a Linux computer for people to try.  You will also be able to have your photo taken with our handsome, 23-inch tall, plush Linux mascot, Tux the penguin.
+
+</li></ul>
+
+<h2>Our Network at the Event</h2>
+We will either have a wifi connection to the Internet, a Pirate Box giving us the ability to download files from a solid-state drive in the Clubhouse, or both. <br>
+http://wiki.daviddarts.com/PirateBox <br>
+http://wiki.daviddarts.com/PirateBox_DIY_OpenWrt <br>
+<img src="./privacy-party_files/pirate.box.60.png">
+
+<h2>Wonderful Guests</h2>
+We may be able to get people to come from the Electronic Frontier Foundation (EFF), the Northern California office of the American Civil Liberties Union (ACLU), and Keplers Bookstore.  <br>
+EFF's senior employees are lawyers who bring lawsuits, defend lawsuits, and propose laws and rules to protect our freedoms and privacy on computer networks and our digital devices.  They also have employees who work with programmers and activists to create new ways of using and protecting our networks and devices.  The ACLU's goal has long been to protect Amercians' civil liberties against overreaching by government officials.  Kepler's bookstore was founded by a local peace activist, Roy Kepler.  It is still independent. <br>
+The EFF and ACLU people can offer information and memberships.  The Keplers person can sell software guides, books about privacy and security, and the novels that are becoming part of the culture of the movement for Internet freedom and privacy. <br>
+
+<p>
+<img src="./privacy-party_files/EFF.logo.102.png"> <img src="./privacy-party_files/aclu.logo.jpeg"> <img src="./privacy-party_files/keplers.logo.174.png">
+
+</p><h2>Good Stuff to Read</h2>
+
+<ul>
+<li>EFF guide, "Surveillance Self-Defense": https://ssd.eff.org/<br>
+</li><li>CryptoParty Handbook:  https://cryptoparty.org/wiki/CryptoPartyHandbook
+</li><li>More concise and advanced than the Handbook: https://cryptoparty.org/wiki/Resources 
+</li><li>Hacker High School, Security Awareness for Teens: http://www.hackerhighschool.org/<br>
+A free course on the Web.  Learn Dark Arts and Defense against them.
+</li><li>EFF Web site:  https://www.eff.org/  <br>
+</li><li>ACLU blog on surveillance:  http://www.aclu.org/national-security/surveillance-privacy <br>
+</li><li>Open Rights Group Web site:  http://www.openrightsgroup.org/ <br> 
+This group opposes the British government's 2012 proposal that companies intercept and collect everyone's digital communications in the U.K., in case the government might later want to inspect anyone's communications.  Activists call the bill the "Snooper's Charter."
+</li><li>Bruce Schneier, <i>Schneier on Security</i>
+</li><li>A short history of cryptography:  https://en.wikipedia.org/wiki/Cryptography
+</li><li>Sarah Flannery, <i>In Code: A Mathematical Journey</i> <br>
+This Irish teenager made extraordinary discoveries in cryptography in 1999.  She won Ireland's Young Scientist of the Year award.  The London <i>Times</i> ran her photo on the front page.  Now, she works in Redwood City at rockyou.com. 
+
+</li><li>Cory Doctorow, <i>Little Brother</i><br>
+Cory lets you download the full text from here: http://craphound.com/littlebrother/download/ <br>
+</li><li>Cory Doctorow, <i>Pirate Cinema</i><br>
+<p>
+
+<img src="./privacy-party_files/hacker.highschool.big.png"> 
+<img src="./privacy-party_files/openrightsgroupposter.jpeg">
+<img src="./privacy-party_files/schneier.bookcover.cropped.png">
+<img src="./privacy-party_files/sarah.flannery.bookcover.cropped.png">
+<img src="./privacy-party_files/little.brother.bookcover.cropped.png">
+<img src="./privacy-party_files/pirate.cinema.bookcover.cropped.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p></li></ul></body></html>
