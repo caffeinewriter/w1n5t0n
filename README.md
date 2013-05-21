@@ -34,3 +34,11 @@ your OLD friend...
 Mud
 
 ![Doni at Graduation](/img/w1n5t0n_grad_1.jpg)
+
+Neo_95: Really wish I had gotten to know you better bro, but we can't go on regretting.
+
+we're saddened by your departure but this is the time to celebrate your life, share
+stories, and remember the times we had with you :)
+
+I Hope to meet you in another life, but untill then, Rest In Peace my brother, love.
+
