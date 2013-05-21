@@ -57,3 +57,4 @@ w1n5t0n, my 'little bro'
 
 ![Doni showing off his DEFCON room](/img/doni_at_defcon_room.jpg)
 
+Mr. Slaughter, IT Director at Denver Academy: Doni was a part of our team. We learned much more from him then he did from us. I was fortunate to have the opportunity to be his friend/coworker for 4 years. He is missed. Greatly missed.
