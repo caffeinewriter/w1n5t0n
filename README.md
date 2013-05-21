@@ -3,7 +3,7 @@
 ![Doni and Doug](/img/w1n5t0n_and_doug.jpg)
 
 Douglas: Everything in the visible universe is composed of atoms formed in stars. From all reaches of the cosmos, they come together in brief and beautiful moments, forever entwined with space and time. Doni serves to remind us of our noble origins. A beautiful beacon in an infinite lineage of stars.
-As many of you know, Doni wasn't a religious person. In honor of Donnie's memory, I would like to offer you the best consolations that physics can afford. The First Law of Thermodynamics tells us that energy is neither created nor destroyed. It is infinite in its extent and motion, transferred between all beings, all mass, all matter composing the universe. Doni's energy is not gone. He is always with us, and always has been with us. Every quanta of energy, all the particles whose paths were interrupted by his smile, by the touch of his hands, hundreds of trillions of particles now translated into memory that will forever redefine us, all of us honored to have known him.
+As many of you know, Doni wasn't a religious person. In honor of Doni's memory, I would like to offer you the best consolations that physics can afford. The First Law of Thermodynamics tells us that energy is neither created nor destroyed. It is infinite in its extent and motion, transferred between all beings, all mass, all matter composing the universe. Doni's energy is not gone. He is always with us, and always has been with us. Every quanta of energy, all the particles whose paths were interrupted by his smile, by the touch of his hands, hundreds of trillions of particles now translated into memory that will forever redefine us, all of us honored to have known him.
 
 ![Doni and Rusty](/img/w1n5t0n_and_Rusty.jpg)
 
@@ -41,4 +41,19 @@ we're saddened by your departure but this is the time to celebrate your life, sh
 stories, and remember the times we had with you :)
 
 I Hope to meet you in another life, but untill then, Rest In Peace my brother, love.
+
+![W1n5t0n throwing his cap](/img/w1n5t0n_grad_2.jpg)
+
+MegaByte: I really wish I could have gotten to know Doni better. The times I did talk to him, he was always really helpful and was generally a nice dude.
+
+Rest In Peace man, you will be greatly missed. Your legacy will go on and GNUHackers will continue to thrive. <3
+
+![Doni at DEFCON](/img/doni_at_defcon_1.jpg)
+
+NeCRoN99: So glad to have known you
+So sad to see you go
+Never will I be able to replace
+w1n5t0n, my 'little bro'
+
+![Doni showing off his DEFCON room](/img/doni_at_defcon_room.jpg)
 
