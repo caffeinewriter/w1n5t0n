@@ -60,3 +60,5 @@ w1n5t0n, my 'little bro'
 Mr. Slaughter, IT Director at Denver Academy: Doni was a part of our team. We learned much more from him then he did from us. I was fortunate to have the opportunity to be his friend/coworker for 4 years. He is missed. Greatly missed.
 
 ![Daniel and Rusty](/img/w1n5t0n_and_Rusty_3.jpg)
+
+Andy Shaffer, Former Systems Administrator at Denver Academy: Doni was a brilliant and talented member of the technology community. I was fortunate enough to work with him for 2 years, and enjoyed following his work after graduating from DA. He will be sorely missed.
