@@ -1,4 +1,4 @@
-#A Tribute To Daniel Bulow (w1n5t0n)
+#A Tribute To Daniel Bulow (w1n5t0n) (02.02.1994 - 19.05.2013)
 
 ![Doni and Doug](img/w1n5t0n_and_doug.jpg)
 
@@ -64,3 +64,5 @@ Mr. Slaughter, IT Director at Denver Academy: Doni was a part of our team. We le
 Andy Shaffer, Former Systems Administrator at Denver Academy: Doni was a brilliant and talented member of the technology community. I was fortunate enough to work with him for 2 years, and enjoyed following his work after graduating from DA. He will be sorely missed. 
 
 ![Doni and Meira](img/doni_and_meira.jpg)
+
+Zinnoc: Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni! 
