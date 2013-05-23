@@ -1,4 +1,4 @@
-#A Tribute To Daniel Bulow (w1n5t0n) (02.02.1994 - 19.05.2013)
+#A Tribute To Daniel Bulow (w1n5t0n) (16.02.1994 - 19.05.2013)
 
 ![Doni and Doug](img/w1n5t0n_and_doug.jpg)
 Doni and his Brother Uri (Doug)
