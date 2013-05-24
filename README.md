@@ -1,5 +1,86 @@
 #A Tribute To Daniel Bulow (w1n5t0n) (16.02.1994 - 19.05.2013)
 
+![Doni and Avi at Avi's Birthday Party](img/doni_and_avi_birthday.jpg)
+Doni and Avi at Avi's Birthday Party
+
+Cory Doctorow, Author of Little Brother, Homeland, Pirate Cinema, and more: I didn't know Daniel, and only "met" him once, in a very pleasant
+online chat with a community he helped found. But of course, I was
+very sad to hear of his suicide. Suicide is almost always tragic --
+leaving aside people with terminal illnesses who choose to end their
+lives in a peaceful and dignified way -- and I can tell from those who
+knew Daniel better than I did -- or ever will -- that this has hit
+them hard.
+
+Memorials are for the living, as well as the dead. Daniel left behind
+a group of good and warm friends who came to know each other through a
+community he helped make happen. In the awful jargon of commodified
+relationships, you hear "social media experts" talk about "community
+features," by which they mean a message board or a chatroom.
+
+But a chatroom isn't a community any more than soil and seeds are a
+garden. A community is something that is grown and watered and tended,
+and the people around whom a community coheres are able to do
+something simple, profound and impossible-to-codify.
+
+Daniel clearly was one of those people. If I knew nothing else about
+him, I'd know that his death was a tragedy because of the work he did
+there.
+
+I only possess a pitiful handful of facts about Daniel. I know that he
+ran a business where he fixed people's computers -- another calling
+that requires sensitivity and an interest in helping people twinned
+with a nuanced understanding of how technology works.
+
+I know that he was a free software advocate, a principled stand that
+demands that its adherents think beyond their own immediate mastery of
+technology and consider the way that less skilled people will have
+their lives improved or shattered by the technology we foist on them.
+
+I know that he was a fan of my books, and that he used w1n5t0n as a
+handle online, and of course that's flattering. It makes me feel a
+little responsible for him, as someone who passed some ideas over the
+aether, to have them snag on his mind.
+
+I know that he was a member of the human race, a species capable of
+the most amazing acts of bravery, strength and generosity.
+
+For these reasons, his death is a tragedy. And for one more: suicide
+can't solve problems. As I wrote when my friend Aaron Swartz --
+another principled hacker, free software advocate, and
+fixer-of-machines -- killed himself in January:
+
+"...[W]hatever problems Aaron was facing, killing himself didn't solve
+them. Whatever problems Aaron was facing, they will go unsolved
+forever. If he was lonely, he will never again be embraced by his
+friends. If he was despairing of the fight, he will never again rally
+his comrades with brilliant strategies and leadership. If he was
+sorrowing, he will never again be lifted from it.
+
+"Depression strikes so many of us. I've struggled with it, been so low
+I couldn't see the sky, and found my way back again, though I never
+thought I would. Talking to people, doing Cognitive Behavioral
+Therapy, seeking out a counsellor or a Samaritan -- all of these have
+a chance of bringing you back from those depths. Where there's life,
+there's hope. Living people can change things, dead people cannot."
+
+There is no good way to say goodbye in a situation like this, but
+there is a good way to live on after the goodbyes are done. Daniel's
+friends had an unmistakable camaraderie that was easy to spot, even on
+a casual visit to their space. I hope that you, Daniel's friends, can
+continue to take care of one another -- to continue Daniel's missions
+of helping people, of offering friendship, and of caring about matters
+of principle. I hope that you can offer each other the support I know
+you would have given to Daniel, if he'd been able to ask for it -- and
+I hope that you will not squander Daniel's death by failing to ask for
+help if you need it.
+
+Suicide reminds us all that though we know and see much about one
+another through our networked friendships, we still must take
+affirmative steps to take care of one another. It's easy to see the
+status updates and GitHub checkins and assume that everything is OK.
+But unless you ask, and listen carefully to the answer, you can't know
+that. Please take good care of one another.
+
 ![Doni and Doug](img/w1n5t0n_and_doug.jpg)
 Doni and his Brother Uri (Doug)
 
