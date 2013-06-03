@@ -1,6 +1,6 @@
 #A Tribute To Daniel Bulow (w1n5t0n) (16.02.1994 - 19.05.2013)
 
-![Doni and his Family](img/doni_and_family.jpg)
+![Doni and his Family](img/doni_with_family.jpg)
 Doni with his Family
 
 Ephraim Bulow, Doni's father: Doni was, and always will be, my son.  Those of you who were fortunate enough to get to know Doni, were privileged.  I was especially privileged to be his father.  Doni suffered for years from depression and mental illness, but to us, his family, we saw him as nothing less than the kindest, gentlest, sweetest man in the world.  Doni didn’t see people through the lens of class, race or religion.  He saw and treated people based upon his understanding of their characters.   He was, at the same time, friends with a Harvard Law School graduate and a chili pepper stand owner, microbiology majors and older people struggling in post DOS world.
