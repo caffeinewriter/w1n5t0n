@@ -150,9 +150,17 @@ Mr. Slaughter, IT Director at Denver Academy: Doni was a part of our team. We le
 ![Daniel and Rusty](img/w1n5t0n_and_Rusty_3.jpg)
 Doni with Rusty
 
+<<<<<<< HEAD
 Andy Shaffer, Former Systems Administrator at Denver Academy: Doni was a brilliant and talented member of the technology community. I was fortunate enough to work with him for 2 years, and enjoyed following his work after graduating from DA. He will be sorely missed.
+=======
+Andy Shaffer, Former Systems Administrator at Denver Academy: Doni was a brilliant and talented member of the technology community. I was fortunate enough to work with him for 2 years, and enjoyed following his work after graduating from DA. He will be sorely missed. 
+>>>>>>> ed72fb98395d010fccfa13b1cb2e64b0612de9c9
 
 ![Doni and Meira](img/doni_and_meira.jpg)
 Doni and Meira
 
+<<<<<<< HEAD
 Zinnoc: Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni!
+=======
+Zinnoc: Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni! 
+>>>>>>> ed72fb98395d010fccfa13b1cb2e64b0612de9c9
