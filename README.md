@@ -181,3 +181,15 @@ Doni and Meira
 
 Zinnoc: 
 >Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni!
+
+![Doni and his Family](img/doni_with_family_2.jpg)
+Doni With His Family
+
+![Bulow Family Photo](img/family_photo.jpg)
+Bulow Family Photo
+
+![Doni's First day of College](img/first_day_of_college.jpg)
+Doni's First day of college
+
+![Uri and Doni](img/uri_and_doni.jpg)
+Uri and Doni
