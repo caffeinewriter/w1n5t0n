@@ -1,5 +1,12 @@
 #A Tribute To Daniel Bulow (w1n5t0n) (16.02.1994 - 19.05.2013)
 
+![Doni and his Family](img/doni_and_family.jpg)
+Doni with his Family
+
+Ephraim Bulow, Doni's father: Doni was, and always will be, my son.  Those of you who were fortunate enough to get to know Doni, were privileged.  I was especially privileged to be his father.  Doni suffered for years from depression and mental illness, but to us, his family, we saw him as nothing less than the kindest, gentlest, sweetest man in the world.  Doni didn’t see people through the lens of class, race or religion.  He saw and treated people based upon his understanding of their characters.   He was, at the same time, friends with a Harvard Law School graduate and a chili pepper stand owner, microbiology majors and older people struggling in post DOS world.
+ 
+As an elementary school kid, he was friends with a boy in his class with Down’s syndrome.  After Doni’s funeral, the mother of that boy came to me and told me that Doni was the first person ever to treat her son as just a boy – not a disability.  He was endlessly patient with his parents who are technology challenged.  As I sit here typing on my mechanical keyboard (so much better than the mushy one I had before) I thank Doni for his constant stream of good advice and caring.  He was an outstanding sourdough bread baker, a maker of yogurt, pickles and cheeses and an experimenter and explorer in all that he did.  When Doni’s mother traveled, which she does relatively frequently for her work, Doni and I would often go out for dinner together.  Whether it was sushi or pizza or grilled fish at home, he was always an enthusiastic foodie, eager to try new things, and a joy to have as a companion.  My heart is broken and I miss him more than words can say.
+
 ![Doni and Avi at Avi's Birthday Party](img/doni_and_avi_birthday.jpg)
 Doni and Avi at Avi's Birthday Party
 
@@ -84,7 +91,7 @@ that. Please take good care of one another.
 ![Doni and Doug](img/w1n5t0n_and_doug.jpg)
 Doni and his Brother Uri (Doug)
 
-Douglas: Everything in the visible universe is composed of atoms formed in stars. From all reaches of the cosmos, they come together in brief and beautiful moments, forever entwined with space and time. Doni serves to remind us of our noble origins. A beautiful beacon in an infinite lineage of stars.
+Douglas aka Uri, Doni's brother: Everything in the visible universe is composed of atoms formed in stars. From all reaches of the cosmos, they come together in brief and beautiful moments, forever entwined with space and time. Doni serves to remind us of our noble origins. A beautiful beacon in an infinite lineage of stars.
 As many of you know, Doni wasn't a religious person. In honor of Doni's memory, I would like to offer you the best consolations that physics can afford. The First Law of Thermodynamics tells us that energy is neither created nor destroyed. It is infinite in its extent and motion, transferred between all beings, all mass, all matter composing the universe. Doni's energy is not gone. He is always with us, and always has been with us. Every quanta of energy, all the particles whose paths were interrupted by his smile, by the touch of his hands, hundreds of trillions of particles now translated into memory that will forever redefine us, all of us honored to have known him.
 
 ![Doni and his Grandfather](img/grandpa_and_doni.jpg)
@@ -150,17 +157,9 @@ Mr. Slaughter, IT Director at Denver Academy: Doni was a part of our team. We le
 ![Daniel and Rusty](img/w1n5t0n_and_Rusty_3.jpg)
 Doni with Rusty
 
-<<<<<<< HEAD
 Andy Shaffer, Former Systems Administrator at Denver Academy: Doni was a brilliant and talented member of the technology community. I was fortunate enough to work with him for 2 years, and enjoyed following his work after graduating from DA. He will be sorely missed.
-=======
-Andy Shaffer, Former Systems Administrator at Denver Academy: Doni was a brilliant and talented member of the technology community. I was fortunate enough to work with him for 2 years, and enjoyed following his work after graduating from DA. He will be sorely missed. 
->>>>>>> ed72fb98395d010fccfa13b1cb2e64b0612de9c9
 
 ![Doni and Meira](img/doni_and_meira.jpg)
 Doni and Meira
 
-<<<<<<< HEAD
 Zinnoc: Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni!
-=======
-Zinnoc: Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni! 
->>>>>>> ed72fb98395d010fccfa13b1cb2e64b0612de9c9
