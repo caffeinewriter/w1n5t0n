@@ -136,7 +136,7 @@ Mudkipith:
 ![Doni at Graduation](img/w1n5t0n_grad_1.jpg)
 Doni at his Graduation
 
-Neo_95: 
+Neo95: 
 
 >Really wish I had gotten to know you better bro, but we can't go on regretting.
 
@@ -146,13 +146,15 @@ stories, and remember the times we had with you :)
 >I Hope to meet you in another life, but untill then, Rest In Peace my brother, love.
 
 ![W1n5t0n throwing his cap](img/w1n5t0n_grad_2.jpg)
+
 Doni at his Graduation
 
-MegaByte: 
+MegaByte (Sam): 
 
->I really wish I could have gotten to know Doni better. The times I did talk to him, he was always really helpful and was generally a nice dude.
+>I did not know Daniel for very long. I had talked with him only on several occasions, all of which, although casual converations, gave me a good understanding of the type of person Daniel was.
+>Daniel, a dear friend of a friend, was one of the most sincere and kind persons I have had the privelege of meeting thus far. Knowledgable and passionate, he also had a sense of humor, which made its way into our conversations often. I am really thankful that Brandon introduced me to Daniel and the GNUHackers family - I'm awfully fond of the people I've met here.
 
->Rest In Peace man, you will be greatly missed. Your legacy will go on and GNUHackers will continue to thrive. <3
+>Thank you Daniel for igniting a spark in so many of our lives. Rest in peace, w1n5t0n.
 
 ![Doni at DEFCON](img/doni_at_defcon_1.jpg)
 Doni at DEFCON
