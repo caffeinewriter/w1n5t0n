@@ -104,7 +104,7 @@ Douglas aka Uri, Doni's brother:
 Doni and his Grandfather
 
 xMonsterx (Brandon): 
->Doni was my best friend. Not my best friend online, not my best friend at the moment, my best friend. Period. I loved him as a friend, and as much as a brother. He was a gift to the world, a brilliant mind, gone too soon. He was a mentor to some, a friend to many, and an amazing person to all. My only regret is that he is gone so soon, and if I could do anything to change that, I would. Rest in peace, my friend.
+>Doni was a lot of things. A technologist, a Bitcoiner, an advocate for free software whose resolve and determination was deserving of an award, but most of all, Doni was my best friend. Not my best friend online, not my best friend at the moment, my best friend. Period. I loved him as a friend, and as much as a brother. He was a gift to the world, a brilliant mind, gone too soon. He was a mentor to some, a friend to many, and an amazing person to all. My only regret is that he is gone so soon, and if I could do anything to change that, I would. Rest in peace, my friend.
 
 ![Doni and Tyler](img/tyler_and_doni.jpg)
 Doni and Tyler
