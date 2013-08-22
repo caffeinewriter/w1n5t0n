@@ -161,9 +161,12 @@ Doni at DEFCON
 
 NeCRoN99: 
 
->So glad to have known you
->So sad to see you go
->Never will I be able to replace
+>So glad to have known you 
+>
+>So sad to see you go 
+>
+>Never will I be able to replace 
+>
 >w1n5t0n, my 'little bro'
 
 ![Doni showing off his DEFCON room](img/doni_at_defcon_room.jpg)
