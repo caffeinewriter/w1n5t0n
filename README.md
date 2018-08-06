@@ -187,6 +187,11 @@ Doni and Meira
 Zinnoc: 
 >Rest in peace, buddy. You will forever be deeply in our hearts and minds. Thank you for everything you have made for all of us. I am sorry that I was not there for you. Wish I knew you in person. I am glad that you are no longer feeling the terrible pain that was surrounding you for years. Goodbye, Doni!
 
+Samuel Exner:
+>I knew Doni since we were both 13 years old. His energy and warmth welcomed me to my new school. Doni's maturity, even then, was unmatched by his peers. We stopped getting along so well when we went to high school - though I can say by senior year we were close once again - I regret not being closer. You see the price of BTC these days? Crypto is an important part of the industry I've found myself in, so Doni, thank you for that as well.
+>I have experienced similar pain to Doni - that is what is most painful about all of this. I had no idea the pain that he was in as well. I thought he was doing great, and felt great, and his death came as a surprise. I wish he would have shared how he felt with me. I regret not asking him every day.
+>I am so happy I found this repository.
+
 ![Doni and his Family](img/doni_with_family_2.jpg)
 Doni With His Family
 
